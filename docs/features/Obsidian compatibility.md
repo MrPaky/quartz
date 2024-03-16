@@ -15,3 +15,4 @@ Finally, Quartz also provides [[CrawlLinks]] plugin, which allows you to customi
 ## Configuration
 
 This functionality is provided by the [[ObsidianFlavoredMarkdown]], [[Frontmatter]] and [[CrawlLinks]] plugins. See the plugin pages for customization options.
+Mamma
